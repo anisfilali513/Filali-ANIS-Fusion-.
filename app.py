@@ -726,7 +726,6 @@ def main():
 # ==========================================
 if __name__ == "__main__":
     # إعدادات أولية
-    st.set_option('deprecation.showPyplotGlobalUse', False)
     
     # تشغيل التطبيق
     main()
