@@ -8,6 +8,7 @@ transformers
 nltk
 scipy
 scikit-learn
+sacremoses
 
 
 
