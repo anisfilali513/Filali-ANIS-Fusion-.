@@ -5,6 +5,7 @@ plotly
 torch
 torchvision
 transformers
+nltk
 scipy
 scikit-learn
 
