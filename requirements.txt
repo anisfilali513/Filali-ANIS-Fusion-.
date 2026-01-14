@@ -4,6 +4,10 @@ numpy
 plotly
 torch
 torchvision
+transformers
+scipy
+scikit-learn
+
 
 
 
