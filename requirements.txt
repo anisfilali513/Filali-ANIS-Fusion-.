@@ -2,5 +2,9 @@ streamlit
 pandas
 numpy
 plotly
+torch
+torchvision
+
+
 
 
